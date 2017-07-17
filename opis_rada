@@ -1,0 +1,31 @@
+Projekat je rađen na sledeći način:
+1. Napravljena je To-Do lista svega što je potrebno za završavanje projekta
+2. Prikupljeni su podaci (slike) određenih havarisanih automobila kao i autodelova koji su korišćeni u daljem toku rada
+3. Radio sam prvo na index.html stranici na kojoj sam napravio dve navigacije, konekciju sa style.css fajlom i kasnije linkovao sa 
+svim ostalim stranicama (i međusobno) koje su bile potrebne za rad
+4. Prebacio sam sve stranice iz .html u .php
+5. Napravio sam konstrukciju baze i tabele u njoj
+6. Popunio sam tabele odgovarajućim podacima koji treba da se prikazuju na određenim stranicama web sajta
+7. Kreirana je registraciona i login forma sa svim potrebnim validacijama 
+8. Kreirana je kontakt forma (omogućen kontakt samo registrovanim/prijavljenim) korisnicima-posetiocima sajta. Za proveru korišćene
+sesije
+9. Na jtipsl.com remote serveru na svom nalogu "laksilaksic.jtipsl.com" umesto postojeće baze cphp7_laksilaksic ubačene tabele 
+potrebne za funkcionisanje sajta iz lokalne baze havarisana_vozila (imamo permisiju samo na tu jednu bazu na jtipsl.com, bez 
+mogućnosti preimenovanja)
+10. Projekat postavljen na GitHub
+
+# Programski jezici i tehnike koje su bile korišćene:
+  -PHP,
+  -MySQL,
+  -HTML5,
+  -CSS3,
+  -JavaScript,
+  -JQuery,
+  -Ajax,
+  -Json.
+
+# Literatura koja je bila korišćena:
+  -www.w3school.com,
+  -stackoverflow.com,
+  -it-akademija.com.
+  -razni tutorijali i web sajtovi.
