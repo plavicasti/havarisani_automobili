@@ -9,10 +9,14 @@ svim ostalim stranicama (i međusobno) koje su bile potrebne za rad
 7. Kreirana je registraciona i login forma sa svim potrebnim validacijama 
 8. Kreirana je kontakt forma (omogućen kontakt samo registrovanim/prijavljenim) korisnicima-posetiocima sajta. Za proveru korišćene
 sesije
-9. Na jtipsl.com remote serveru na svom nalogu "laksilaksic.jtipsl.com" umesto postojeće baze cphp7_laksilaksic ubačene tabele 
+9. Svim posetiocima sajta je omogućen prikaz marki automobila koje se otkupljuju, kao i prikaz autodelova koji se trenutno nalaze u 
+ponudi
+10. Nakon registrcije/prijave korisnika, omogućeno je poručivanje određenog auto-dela pri čemu se podaci o porudžbini prosleđuju (upisuju)
+u bazu
+11. Na jtipsl.com remote serveru na svom nalogu "laksilaksic.jtipsl.com" u okviru postojeće baze cphp7_laksilaksic ubačene tabele 
 potrebne za funkcionisanje sajta iz lokalne baze havarisana_vozila (imamo permisiju samo na tu jednu bazu na jtipsl.com, bez 
 mogućnosti preimenovanja)
-10. Projekat postavljen na GitHub
+12. Projekat postavljen na GitHub
 
 # Programski jezici i tehnike koje su bile korišćene:
   -PHP,
@@ -27,5 +31,5 @@ mogućnosti preimenovanja)
 # Literatura koja je bila korišćena:
   -www.w3school.com,
   -stackoverflow.com,
-  -it-akademija.com.
+  -it-akademija.com,
   -razni tutorijali i web sajtovi.
